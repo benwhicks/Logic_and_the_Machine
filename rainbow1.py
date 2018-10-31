@@ -1,1 +1,0 @@
-from turtle import *# this makes the turtle go fasthideturtle()speed(0)for n in range(1,180):    if n%2 == 0:        color("red")    else:        color("blue")    forward(100)    backward(100)    left(1)    done()
